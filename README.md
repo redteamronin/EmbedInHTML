@@ -3,7 +3,7 @@ Embed a file in HTML and have it autodownload using JavaScript
 
 Revision Author: RedTeamRonin
 
-- I took what Arno0x0x created and got it working with Python3. I also removed some of the items I didn't find useful but a link to the original repository is [here](https://github.com/Arno0x/EmbedInHTML) as the drag and drop site could be useful to others.
+- I took what Arno0x0x created and got it working with Python3. I also removed some of the items I didn't find useful but a link to the original repository is [here](https://github.com/Arno0x/EmbedInHTML){:target="_blank"} as the drag and drop site could be useful to others.
 
 Original Author: Arno0x0x - [@Arno0x0x](http://twitter.com/Arno0x0x)
 
